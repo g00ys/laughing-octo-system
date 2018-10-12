@@ -1,0 +1,11 @@
+# basic options
+title: Explore
+author: bombo
+email: olaboyejo@gmail.com
+description: A wonderful site
+twitter_username: g00ys
+github_username:  g00ys
+
+# Build settings
+markdown: kramdown
+theme: minima
